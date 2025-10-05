@@ -1,4 +1,6 @@
 History/
 SnapDocs/
 *Lib/
-__Previews//
+__Previews/
+MyPCB.PcbLib
+MySCH.SchLib
